@@ -27,7 +27,7 @@ const emit = defineEmits(['openDrawer'])
         <div class="flex gap-4">
           <li class="flex items-center text-gray gap-3">
             <img src="/heart.svg" alt="Heart" />
-            <p>Heart</p>
+            <p>Favorites</p>
           </li>
           <li class="flex items-center text-gray gap-3">
             <img src="/profile.svg" alt="Profile" />
